@@ -1,0 +1,29 @@
+[33mcommit 92b57dff72922759177c259c50fec12f376097ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Davi Araujo <moreiradaavi@gmail.com>
+Date:   Thu Apr 29 22:09:54 2021 -0300
+
+    Criando repository e service para Categoria
+
+[33mcommit 650425db58362476fcdafd29d4ad7f42b1c6d67d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Davi Araujo <moreiradaavi@gmail.com>
+Date:   Thu Apr 29 20:49:53 2021 -0300
+
+    Base de dados h2 e criação de tabela
+
+[33mcommit 23e1265fad60a0d24defad9c7f46a349f6c41860[m
+Author: Davi Araujo <moreiradaavi@gmail.com>
+Date:   Thu Apr 29 19:55:09 2021 -0300
+
+    Criando a Primeira Classe Dominio
+
+[33mcommit 574b32265632b41a53e64ed9beb7690355099caa[m
+Author: Davi Araujo <moreiradaavi@gmail.com>
+Date:   Thu Apr 29 18:17:06 2021 -0300
+
+    Rest testado
+
+[33mcommit 87e4aba9f374c02cdc0aa4f57d3cef0861ecfdc5[m
+Author: Davi Araujo <moreiradaavi@gmail.com>
+Date:   Wed Apr 28 22:07:59 2021 -0300
+
+    Projeto criado
